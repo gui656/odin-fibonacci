@@ -15,7 +15,5 @@ const fibonacci = function(n){
   return sequence[n]
 }
 
-console.log(fibonacci(10))
-
 // Do not edit below this line
 module.exports = fibonacci;
